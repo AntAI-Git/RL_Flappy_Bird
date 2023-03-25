@@ -13,5 +13,5 @@ https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-
 
 The average rewards achieved by both agents on a given episode (during testing):
 ```python 
-Q-Learning: 8,041,130
+Q-Learning: 45000
 Monte Carlo: 120
