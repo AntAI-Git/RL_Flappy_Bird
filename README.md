@@ -18,4 +18,4 @@ Monte Carlo: 100,000
 ```
 
 Note:
-The Monte Carlo agent has perfectly master the game (no death of the bird) after 4000 episodes of training. Thus the sum of rewards has been limited artificially and correspond to the score limit I fixed at 100,000.
+The Monte Carlo agent has perfectly master the game (no death of the bird) after 4000 episodes of training. Thus the episode score has been limited artificially and correspond to the score limit I fixed at 100,000.
