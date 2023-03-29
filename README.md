@@ -11,11 +11,11 @@ https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-
 
 ## Performance
 
-The average sum of rewards achieved by both agents on a given episode (during testing):
+The average score achieved by both agents on a given episode (during testing):
 ```python 
-Q-Learning: 120
-Monte Carlo: 45000
+Q-Learning: 127
+Monte Carlo: 100,000
 ```
 
 Note:
-The Monte Carlo agent has perfectly master the game (no death of the bird) after 3000 episodes of training. Thus the sum of rewards has been limited artificially and correspond to the score limit I fixed at 100,000,000.
+The Monte Carlo agent has perfectly master the game (no death of the bird) after 4000 episodes of training. Thus the sum of rewards has been limited artificially and correspond to the score limit I fixed at 100,000.
